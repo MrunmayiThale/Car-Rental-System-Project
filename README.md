@@ -1,5 +1,5 @@
 # Car-Rental-System-Project
-A car rental system based on Java OOP concepts could include classes such as Car, Customer,RentalRecord, and RentalAgency. 
+A car rental system based on Java OOP concepts could include classes such as Car, Customer,RentalRecord, and RentalAgency.
 
 1. *Car Class*: Contains attributes like car ID, model, make, year, rental status, and availability.
 2. *Customer Class*: Represents the renter with attributes like customer ID, name, contact details.
